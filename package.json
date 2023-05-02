@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@angular-devkit/build-angular": "^13.0.2",
+    "@angular/cli": "^13.3.11",
     "@angular/common": "6.0.3",
     "@angular/http": "^7.2.16",
     "@kolkov/ngx-gallery": "^2.0.1"
